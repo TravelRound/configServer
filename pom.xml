@@ -19,17 +19,17 @@
         <module>EurekaServer01</module>
         <module>UserProvdier01</module>
         <module>UserWeb01</module>
-        <module>EurekaServer02</module>
-        <module>UserProvdier02</module>
-        <module>UserWeb02</module>
-        <module>UserWeb03</module>
-        <module>UserWeb04</module>
-        <module>hystrix-dashboard</module>
+<!--        <module>EurekaServer02</module>-->
+<!--        <module>UserProvdier02</module>-->
+<!--        <module>UserWeb02</module>-->
+<!--        <module>UserWeb03</module>-->
+<!--        <module>UserWeb04</module>-->
+<!--        <module>hystrix-dashboard</module>-->
         <module>ConfigServer001</module>
-        <module>ConfigServer002</module>
-        <module>ZuulGateWay</module>
-        <module>UserWeb05</module>
-        <module>UserWeb06</module>
+<!--        <module>ConfigServer002</module>-->
+<!--        <module>ZuulGateWay</module>-->
+<!--        <module>UserWeb05</module>-->
+<!--        <module>UserWeb06</module>-->
     </modules>
 
     <packaging>pom</packaging>
